@@ -12,5 +12,9 @@
 3. Run the Application:
    - Open the `MainApp.java` file.
    - Click the `Run` button in your IDE .
+## Technology Stack
+- Programming Language: Java
+- GUI Framework: JavaFX
+- Development Environment: Eclipse IDE
 
 
